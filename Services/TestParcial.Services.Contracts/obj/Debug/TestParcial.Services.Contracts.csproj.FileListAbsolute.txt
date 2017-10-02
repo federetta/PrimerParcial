@@ -1,0 +1,5 @@
+C:\Users\Fede\Desktop\ASF-TestParcial\bin\TestParcial.Services.Contracts.dll
+C:\Users\Fede\Desktop\ASF-TestParcial\bin\TestParcial.Services.Contracts.pdb
+C:\Users\Fede\Desktop\ASF-TestParcial\Services\TestParcial.Services.Contracts\obj\Debug\TestParcial.Services.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\ASF-TestParcial\Services\TestParcial.Services.Contracts\obj\Debug\TestParcial.Services.Contracts.dll
+C:\Users\Fede\Desktop\ASF-TestParcial\Services\TestParcial.Services.Contracts\obj\Debug\TestParcial.Services.Contracts.pdb

@@ -1,0 +1,4 @@
+C:\Users\Fede\Desktop\ASF-TestParcial\bin\TestParcial.Framework.dll
+C:\Users\Fede\Desktop\ASF-TestParcial\bin\TestParcial.Framework.pdb
+C:\Users\Fede\Desktop\ASF-TestParcial\Shared\TestParcial.Framework\obj\Debug\TestParcial.Framework.dll
+C:\Users\Fede\Desktop\ASF-TestParcial\Shared\TestParcial.Framework\obj\Debug\TestParcial.Framework.pdb
